@@ -5,10 +5,12 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+there!%F0%9F%91%8B;I+am+Sohel+Rana+.+.+.+.;Nice+to+meet+you!)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=true&width=435&lines=Hello%2C+there!%F0%9F%91%8B;I+am+Sohel+Rana.+.+.+.;Nice+to+meet+you!" alt="Typing SVG" /></a>
+</div>
 
 
-<p align="center">MERN Stack Developer | Building responsive and interactive web apps with React, Node.js & MongoDB | Always learning, experimenting, and improving my skills 🌱💻</p>
+<p font-size="20px" align="center">MERN Stack Developer | Building responsive and interactive web apps with React, Node.js & MongoDB | <br/> Always learning, experimenting, and improving my skills 🌱💻</p>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
