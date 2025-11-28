@@ -74,10 +74,11 @@
 ###
 
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohelrana07&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sohelrana07&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelrana07&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohelrana07&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="height:     150px; object-fit: cover;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sohelrana07&theme=dark&hide_border=true" alt="GitHub Streak" style="height: 150px; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohelrana07&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top     Languages" style="height: 150px; object-fit: cover;" />
 </div>
+
 
 ###
 
