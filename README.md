@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/HpqpBbxZ/Black-and-Yellow-Web-Developer-Linked-In-Banner.png"  />
+  <img height="200" src="https://i.ibb.co/Q3LjmtLm/Banner.png"  />
 </div>
 
 ###
