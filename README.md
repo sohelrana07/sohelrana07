@@ -31,7 +31,12 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/refs/heads/master/thoughtworks-gif_dribbble.gif" width="260px" align="right" mergin-bottom="10px"/>
+<img 
+  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
+  width="260px" 
+  align="right" 
+  style="margin-bottom: 15px; border-radius:12px;"
+/>
   
 ###
 
