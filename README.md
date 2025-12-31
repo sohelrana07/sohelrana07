@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="100%" height="200" src="https://i.ibb.co/VKx8kqQ/Personal-Profile-Linkedin-Banner.png" />
+  <img width="100%" height="200" src="https://i.ibb.co/G3FvFvqL/Profile-Linkedin-Banner.png" />
 </div>
 
 ###
